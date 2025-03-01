@@ -992,7 +992,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const searchBtn = document.getElementById("btn");
   const allImgContainer = document.getElementById("allImg");
   
-  const ACCESS_TOKEN = "Pge8R3bf4GSj5FQvMMVUOZ1G6RSvdRjj2CZULZhKOHk"; 
+  const ACCESS_TOKEN = ""; 
   
   searchBtn.addEventListener("click", async (event) => {
       event.preventDefault();
